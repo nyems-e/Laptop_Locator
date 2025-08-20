@@ -1,0 +1,14 @@
+No_github/
+__pycache__/
+Connect.py
+Functions.py
+GUI.py
+Tests.py
+Tests.spec
+venv/
+build/
+laptops.csv
+Laptops.db
+example.db
+.vs/
+.vscode/
